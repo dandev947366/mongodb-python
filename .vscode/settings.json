@@ -18,8 +18,10 @@
     "python.linting.pylintEnabled": true,
     "python.linting.flake8Enabled": true,
     "cSpell.words": [
+        "bson",
         "dotenv",
         "pymongo",
+        "pytz",
         "upserted",
         "viewsets"
     ]
